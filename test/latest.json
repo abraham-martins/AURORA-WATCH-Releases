@@ -1,7 +1,7 @@
 {
   "channel": "test",
-  "version": "0.0.5.18",
-  "packageUrl": "https://github.com/abraham-martins/AURORA-WATCH-Releases/releases/download/v0.0.5.18-test/AuroraWatch-v0.0.5.18-test-win-x64.zip",
-  "sha256": "3a9c612b04865bb486654f7863594674564bdab7bb55423595daeeb9a24a886d",
-  "publishedAt": "2026-09-09T20:44:29.3544082+00:00"
+  "version": "0.0.5.19",
+  "packageUrl": "https://github.com/abraham-martins/AURORA-WATCH-Releases/releases/download/v0.0.5.19-test/AuroraWatch-v0.0.5.19-test-win-x64.zip",
+  "sha256": "f162fd0634f4cc4454b5c4d2f3f86346a013fd1e0055ea1aacb51388c561552f",
+  "publishedAt": "2026-09-09T22:27:42.1795439+00:00"
 }
